@@ -10,8 +10,7 @@ NovaRetail Ltd.’s sales analysis highlights Electronics as the leading revenue
 # Business Understanding
 Context: NovaRetail operates across Nigeria, offering Electronics, Appliances, and Accessories.
 Challenge: Management lacked visibility into sales performance, customer behavior, seasonal trends, and sales force contributions.
-
-## Key Questions:
+### Key Questions:
 Which cities and regions generate the most revenue?
 Which product categories are most profitable?
 How much revenue comes from new vs. returning customers?
@@ -19,25 +18,25 @@ Are there identifiable seasonal trends in sales?
 Which sales reps contribute most, and where is improvement needed?
 Objective: Provide insights to improve inventory planning, marketing allocation, customer retention, and sales team effectiveness.
 
-## Data Understanding
+# Data Understanding
 Scope: Transactions across multiple Nigerian cities, customer types, categories, and sales reps.
-# Features:
+### Features:
 Date, City, Customer ID, Customer Type
 Category (Electronics, Appliances, Accessories)
 Sales Rep, Units Sold, Unit Price, Discount, Revenue
 Timeframe: Transactions up to September 2024.
 
-## Methodology
-# Data Processing
+# Methodology
+### Data Processing
 Imported dataset using Python (pandas).
 Converted date fields for monthly/seasonal analysis.
 Cleaned data and verified revenue consistency.
 Derived new metrics (e.g., Average Revenue per Customer, Repeat Purchases).
-# Analysis Techniques
+### Analysis Techniques
 Grouped data by City, Category, Customer Type, Month, and Sales Rep.
 Calculated customer loyalty and value metrics.
 Conducted trend, segmentation, and profitability analysis.
-# Visualization
+### Visualization
 Used matplotlib & seaborn for bar charts, line graphs, and pie charts.
 Displayed sales trends, city/category revenue, and sales rep performance.
 
