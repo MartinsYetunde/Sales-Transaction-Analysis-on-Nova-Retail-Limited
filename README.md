@@ -43,14 +43,19 @@ Displayed sales trends, city/category revenue, and sales rep performance.
 # Key Insights & Recommendations
 Sales Performance: Total revenue strong; avg. revenue per customer = ₦383,390.
 Recommendation: Segment customers to tailor loyalty programs.
+
 Customer Behavior: Returning customers dominate revenue; new customers growing.
 Recommendation: Launch loyalty program for returnees + welcome offers for new customers.
+
 City-Level : Lagos leads (₦9.3M), followed by Abuja; smaller cities underperform.
 Recommendation: Focus inventory/marketing on top cities; build awareness elsewhere.
+
 Product Insights : Electronics = top revenue; Accessories = high sales volume, lower revenue.
 Recommendation: Ensure Electronics stock availability; bundle Accessories to boost sales.
+
 Seasonal Trends: Peak in September 2024 (₦4.7M).
 Recommendation: Align campaigns with festive/peak months.
+
 Sales Rep Performance: Abdul Salim lead revenue generation.
 Recommendation: Incentivize top reps; use their strategies to train underperformers.
 
